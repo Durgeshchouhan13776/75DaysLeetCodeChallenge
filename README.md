@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
