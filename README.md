@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [3516-find-closest-person](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3516-find-closest-person) |
 <!---LeetCode Topics End-->
