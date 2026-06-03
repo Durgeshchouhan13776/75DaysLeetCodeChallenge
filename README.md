@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
+| [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
