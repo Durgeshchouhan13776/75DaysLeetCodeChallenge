@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2032-two-out-of-three](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Breadth-First Search
 |  |
 | ------- |
