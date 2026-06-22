@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
 | ------- |
