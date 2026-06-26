@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3516-find-closest-person](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3516-find-closest-person) |
 ## Simulation
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 ## Greedy
 |  |
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
