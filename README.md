@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
