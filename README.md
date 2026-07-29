@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0725-split-linked-list-in-parts](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
