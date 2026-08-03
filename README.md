@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3516-find-closest-person](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
