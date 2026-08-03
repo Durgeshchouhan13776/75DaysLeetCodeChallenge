@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [1006-clumsy-factorial](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [1006-clumsy-factorial](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1006-clumsy-factorial) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3516-find-closest-person](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3516-find-closest-person) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
