@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
