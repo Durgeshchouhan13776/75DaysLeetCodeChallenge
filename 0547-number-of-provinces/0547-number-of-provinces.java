@@ -1,46 +1,28 @@
-import java.util.*;
-
 class Solution {
-
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-            for (int j = 0; j < n; j++) {
-                adj.get(i).add(isConnected[i][j]);
-            }
-        }
-        return numProvinces(adj, n);
-    }
-    
-    public static int numProvinces(ArrayList<ArrayList<Integer>> adj, int n) {
         int count = 0;
-        boolean[] visited = new boolean[n];
-
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                bfs(i, visited, adj);
+        boolean[] vis = new boolean[n];
+        for(int i=0; i<n; i++){
+            if(!vis[i]){
+                bfs(i,vis,isConnected);
                 count++;
             }
         }
         return count;
     }
+    public void bfs(int i, boolean[] vis, int[][] isConnected){
+        int n = isConnected.length;
+        vis[i]=true;
 
-    public static void bfs(int i, boolean[] visited, ArrayList<ArrayList<Integer>> adj) {
-        int n = adj.size();
         Queue<Integer> q = new LinkedList<>();
-
         q.add(i);
-        visited[i] = true;
-
-        while (!q.isEmpty()) {
-            int front = q.remove();
-
-            for (int j = 0; j < n; j++) {
-                if (adj.get(front).get(j) == 1 && !visited[j]) {
+        while(q.size()>0){
+            int front  = q.remove();
+            for(int j=0; j<n; j++){
+                if(isConnected[front][j]==1 && vis[j]==false){
                     q.add(j);
-                    visited[j] = true;
+                    vis[j] = true;
                 }
             }
         }
