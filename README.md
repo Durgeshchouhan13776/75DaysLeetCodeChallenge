@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
