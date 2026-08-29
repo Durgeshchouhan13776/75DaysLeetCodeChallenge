@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
