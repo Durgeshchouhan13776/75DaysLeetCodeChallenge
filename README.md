@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -421,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
