@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
