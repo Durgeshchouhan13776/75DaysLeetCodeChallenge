@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
