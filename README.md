@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1006-clumsy-factorial) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3516-find-closest-person](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1006-clumsy-factorial) |
+| [1688-count-of-matches-in-tournament](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
