@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
