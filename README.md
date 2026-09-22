@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
@@ -501,8 +503,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
