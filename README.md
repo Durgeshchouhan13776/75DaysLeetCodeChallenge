@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
@@ -520,5 +524,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
