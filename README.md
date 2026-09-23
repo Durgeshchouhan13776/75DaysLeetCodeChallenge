@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -517,4 +520,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
