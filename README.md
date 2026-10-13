@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/1382-balance-a-binary-search-tree) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
