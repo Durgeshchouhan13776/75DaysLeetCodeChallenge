@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Durgeshchouhan13776/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
